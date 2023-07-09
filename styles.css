@@ -11,6 +11,14 @@ font-size: 35px;
 font-weight: 700;
 }
 
+.section-para{
+    color: #757575;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+}
+
 .text-primary{
     color: #FD6E0A;
 }
@@ -140,3 +148,10 @@ main{
     margin-right: 50px;
 }
 
+/* skills section styles */
+
+
+#section-description{
+    padding: 0px 230px;
+    text-align: center;
+}
